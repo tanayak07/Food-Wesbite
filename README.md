@@ -35,7 +35,8 @@ Food-Website/
 │── README.md         # Project documentation
 
 
-## 📂 Project Structure
+## Images 
+
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/af0be5ae-eddc-431e-88e2-77ed26388c4a" />
 
